@@ -1,4 +1,3 @@
-2. Clone using SSH keys
 3. Create 3 commits in master branch
 4. Create new "dev" branch and push 1 commits inside
 5. Push 1 commit inside dev branch which will produce a conflict with previous commit to master branch
