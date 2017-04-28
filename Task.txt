@@ -1,5 +1,5 @@
-3. Create 3 commits in master branch
-4. Create new "develop" branch and push 1 commits inside
+3. Create 5 commits in master branch
+4. Create new "tester" branch and push 1 commits inside
 5. Push 1 commit inside dev branch which will produce a conflict with previous commit to master branch
 5. Merge "dev" to "master" : resolve conflict and save history of commits for "dev" branch
 * 6. Add 2 additional commits to "dev", 1 commit in master. Rebase "dev" with new commits from "master"
