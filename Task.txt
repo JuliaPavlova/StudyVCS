@@ -8,3 +8,5 @@
 
 Please check out the following guide about commit message naming: http://chris.beams.io/posts/git-commit/
 As the result share the link to the repo with your mentor
+
+1-st additional commit inside master
