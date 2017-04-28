@@ -11,4 +11,5 @@ As the result share the link to the repo with your mentor
 
 1-st additional commit inside master
 1-st additional commit in dev
+2-nd additional commit in dev
 
